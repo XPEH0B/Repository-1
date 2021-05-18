@@ -2,7 +2,7 @@
 As I consider myself a huge fan of italian cuisine, I decided to pick one of the most iconic italian dishes for lunch - lasagna. In case you never heard about such dish, here's wikipedia definition for you:
 >Lasagne, or the singular lasagna, is an Italian dish made of stacked layers of thin flat pasta alternating with fillings such as ragù (ground meats and tomato sauce) and other vegetables, cheese (which may include ricotta and parmesan), and seasonings and spices such as garlic, oregano and basil. The dish may be topped with melted grated mozzarella cheese. Typically, the cooked pasta is assembled with the other ingredients and then baked in an oven. The resulting lasagne casserole is cut into single-serving square portions.
 
-So, first things first, we need to gather up all the ingridients we need:
+So, first things first, we need to gather up all the ingridients:
 | INGRIDIENT | QUANTITY |
 | ------ | ------ |
 | minced meat | 800-900 grams |
