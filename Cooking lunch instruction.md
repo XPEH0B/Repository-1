@@ -5,17 +5,17 @@ As I consider myself a huge fan of italian cuisine, I decided to pick one of the
 So, first things first, we need to gather up all the ingridients we need:
 | INGRIDIENT | QUANTITY |
 | ------ | ------ |
-| minced meat | 800-900 gram |
+| minced meat | 800-900 grams |
 | tomato juice (or tomato sauce) | 1 glass |
 | olive oil | 3 tablespoons |
 | minced onion | 1/2 cup |
 | garlic | 3-4 cloves |
-| mozzarella cheese | 300 gram |
-| parmesan cheese | 100 gram |
+| mozzarella cheese | 300 grams |
+| parmesan cheese | 100 grams |
 | lasagna sheets | 15-16 pcs |
 | milk | 0.8-1 liter |
-| butter | 80-100 g |
-| flour | 80-100 g |
+| butter | 80-100 grams |
+| flour | 80-100 grams |
 | ground nutmeg | 1/4 teaspoons |
 | salt and pepper | to taste |
 | fresh basil (for serving, optional) | 3 sprigs |
